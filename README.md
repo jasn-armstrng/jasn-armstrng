@@ -1,7 +1,7 @@
 <h2>I'm Jason</h2>
 <h3>A passionate software developer</h3>
 
-- 🌱 I’m currently learning **Python, data structures, and algorithms**
+- Currently mastering **Python, data structures, and algorithms**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
