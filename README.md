@@ -1,9 +1,9 @@
-<h1>Hi, I'm Jason</h1>
-<h3>A passionate software developer</h3>
+<h3>I'm Jason</h3>
+<h4>A passionate software developer</h4>
 
 - 🌱 I’m currently learning **Python, data structures, and algorithms**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/jason-armstrong-sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jason-armstrong-sd" height="30" width="40" /></a>
 </p>
