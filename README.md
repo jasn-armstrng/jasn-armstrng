@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A passionate software developer with a desire to solve problems in aerospace and defense.</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **Python, data structures, and algorithms**
 
